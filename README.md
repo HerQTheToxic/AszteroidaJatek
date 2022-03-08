@@ -1,6 +1,5 @@
 # Aszteroida Játék
-
-###A jéték lényege
+#A jéték lényege
 A telepeseknek az aszteroidák között mozogva kell nyersanyagokat összegyűjteníük, hogy felépíthessék az űrbázist és nyerhessenek. A nyersanyagokból lehet teleportkapúpárokat és robotokat is építeni, ami megegyszerűsíti a telepesek dolgát.
 
 ###A játék futtatása
